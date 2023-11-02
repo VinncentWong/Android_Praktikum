@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Praktikum3</string>
+    <string name="logo_description">Learn Graphic and UI/UX designing in Hindi for free with live projects.</string>
+    <string name="email_hint">Email Address</string>
+    <string name="password">Password</string>
+    <string name="button">LOGIN</string>
+    <string name="or_login_with">or login with</string>
+    <string name="dont_have_account"><font color='#FFFFFFFF'>Don\'t have account?</font> <font color='#FD8C00'>Register now</font></string>
+    <string name="terms_condition"><font color='#FFFFFFFF'>By signing up, you are agree with our</font> <font color='#FD8C00'>Terms and Conditions</font></string>
+
+    <!--color-->
+    <string name="white">#FFFFFF</string>
+</resources>
