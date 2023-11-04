@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Praktikum5</string>
+    <string name="logo_description">Learn Graphic and UI/UX designing in Hindi for free with live projects.</string>
+    <string name="email_hint">Email Address</string>
+    <string name="password">Password</string>
+    <string name="button">LOGIN</string>
+    <string name="or_login_with">or login with</string>
+    <string name="dont_have_account"><font color='#FFFFFFFF'>Don\'t have account?</font> <font color='#FD8C00'>Register now</font></string>
+    <string name="terms_condition"><font color='#FFFFFFFF'>By signing up, you are agree with our</font> <font color='#FD8C00'>Terms and Conditions</font></string>
+    <string name="rambut">Rambut</string>
+    <string name="alis">Alis</string>
+    <string name="kumis">Kumis</string>
+    <string name="janggut">Janggut</string>
+    <string name="tools_context_description_welcome">Selamat Datang</string>
+    <string name="tools_context_description_email">vinncentalexanderwong@gmail.com</string>
+    <string name="tools_context_description_password">215150401111033</string>
+    <string name="contact_us">Contact us</string>
+    <string name="email_us">Email us</string>
+    <string name="our_website">Our website</string>
+
+    <!--color-->
+    <string name="white">#FFFFFF</string>
+</resources>
