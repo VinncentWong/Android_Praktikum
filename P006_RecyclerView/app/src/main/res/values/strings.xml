@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">P006_RecyclerView</string>
+    <string name="tambah">Tambah</string>
+    <string name="hapus">Hapus</string>
+</resources>
