@@ -1,6 +1,19 @@
 package com.example.p006_recyclerview.model
 
-class CardModel(
+import androidx.room.ColumnInfo
+import androidx.room.Entity
+import androidx.room.PrimaryKey
+
+@Entity("card")
+data class CardModel(
+
+    @ColumnInfo("title")
     var title: String,
-    var subtitle: String
+
+    @ColumnInfo("subtitle")
+    var subtitle: String,
+
+    @PrimaryKey(autoGenerate = true)
+    @ColumnInfo("id")
+    var id: Int? = null,
 )
